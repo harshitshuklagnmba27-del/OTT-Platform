@@ -1,4 +1,4 @@
-# OTT-Platform: Content & User Engagement Analysis
+# StreamSphere OTT Platform: Content & User Engagement Analysis
 
 MBA End-Term Project, SQL and Data Management (PMDE30605), IILM University, Greater Noida.
 
